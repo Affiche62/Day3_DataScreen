@@ -1,0 +1,1178 @@
+[
+  {
+    "hour": "2026-07-01 00",
+    "mem_used": 60037.0,
+    "mem_free": 72109.0,
+    "mem_buff": 49586.0,
+    "mem_cache": 81592.0
+  },
+  {
+    "hour": "2026-07-01 01",
+    "mem_used": 75229.0,
+    "mem_free": 67977.0,
+    "mem_buff": 70549.0,
+    "mem_cache": 55975.0
+  },
+  {
+    "hour": "2026-07-01 02",
+    "mem_used": 65133.0,
+    "mem_free": 60410.0,
+    "mem_buff": 64406.0,
+    "mem_cache": 49576.0
+  },
+  {
+    "hour": "2026-07-01 03",
+    "mem_used": 61273.0,
+    "mem_free": 73658.0,
+    "mem_buff": 60867.0,
+    "mem_cache": 52350.0
+  },
+  {
+    "hour": "2026-07-01 04",
+    "mem_used": 75446.0,
+    "mem_free": 75948.0,
+    "mem_buff": 70249.0,
+    "mem_cache": 50634.0
+  },
+  {
+    "hour": "2026-07-01 05",
+    "mem_used": 64549.0,
+    "mem_free": 46181.0,
+    "mem_buff": 71772.0,
+    "mem_cache": 60664.0
+  },
+  {
+    "hour": "2026-07-01 06",
+    "mem_used": 59592.0,
+    "mem_free": 76425.0,
+    "mem_buff": 72838.0,
+    "mem_cache": 70644.0
+  },
+  {
+    "hour": "2026-07-01 07",
+    "mem_used": 61360.0,
+    "mem_free": 68641.0,
+    "mem_buff": 57139.0,
+    "mem_cache": 71192.0
+  },
+  {
+    "hour": "2026-07-01 08",
+    "mem_used": 59991.0,
+    "mem_free": 68777.0,
+    "mem_buff": 50670.0,
+    "mem_cache": 68190.0
+  },
+  {
+    "hour": "2026-07-01 09",
+    "mem_used": 60393.0,
+    "mem_free": 65844.0,
+    "mem_buff": 63028.0,
+    "mem_cache": 77204.0
+  },
+  {
+    "hour": "2026-07-01 10",
+    "mem_used": 68585.0,
+    "mem_free": 72554.0,
+    "mem_buff": 66847.0,
+    "mem_cache": 55622.0
+  },
+  {
+    "hour": "2026-07-01 11",
+    "mem_used": 84837.0,
+    "mem_free": 71898.0,
+    "mem_buff": 47422.0,
+    "mem_cache": 62403.0
+  },
+  {
+    "hour": "2026-07-01 12",
+    "mem_used": 71216.0,
+    "mem_free": 63950.0,
+    "mem_buff": 53636.0,
+    "mem_cache": 66606.0
+  },
+  {
+    "hour": "2026-07-01 13",
+    "mem_used": 60136.0,
+    "mem_free": 61643.0,
+    "mem_buff": 56220.0,
+    "mem_cache": 59256.0
+  },
+  {
+    "hour": "2026-07-01 14",
+    "mem_used": 63891.0,
+    "mem_free": 55769.0,
+    "mem_buff": 75712.0,
+    "mem_cache": 59591.0
+  },
+  {
+    "hour": "2026-07-01 15",
+    "mem_used": 45731.0,
+    "mem_free": 69931.0,
+    "mem_buff": 65067.0,
+    "mem_cache": 85359.0
+  },
+  {
+    "hour": "2026-07-01 16",
+    "mem_used": 62795.0,
+    "mem_free": 60958.0,
+    "mem_buff": 61317.0,
+    "mem_cache": 66066.0
+  },
+  {
+    "hour": "2026-07-01 17",
+    "mem_used": 60105.0,
+    "mem_free": 68718.0,
+    "mem_buff": 59837.0,
+    "mem_cache": 52282.0
+  },
+  {
+    "hour": "2026-07-01 18",
+    "mem_used": 59578.0,
+    "mem_free": 59419.0,
+    "mem_buff": 68008.0,
+    "mem_cache": 64347.0
+  },
+  {
+    "hour": "2026-07-01 19",
+    "mem_used": 73125.0,
+    "mem_free": 62859.0,
+    "mem_buff": 62690.0,
+    "mem_cache": 54814.0
+  },
+  {
+    "hour": "2026-07-01 20",
+    "mem_used": 79766.0,
+    "mem_free": 69854.0,
+    "mem_buff": 77123.0,
+    "mem_cache": 68579.0
+  },
+  {
+    "hour": "2026-07-01 21",
+    "mem_used": 73621.0,
+    "mem_free": 74209.0,
+    "mem_buff": 61607.0,
+    "mem_cache": 60640.0
+  },
+  {
+    "hour": "2026-07-01 22",
+    "mem_used": 60186.0,
+    "mem_free": 69799.0,
+    "mem_buff": 71537.0,
+    "mem_cache": 64993.0
+  },
+  {
+    "hour": "2026-07-01 23",
+    "mem_used": 70518.0,
+    "mem_free": 72491.0,
+    "mem_buff": 78905.0,
+    "mem_cache": 64822.0
+  },
+  {
+    "hour": "2026-07-02 00",
+    "mem_used": 62319.0,
+    "mem_free": 48406.0,
+    "mem_buff": 64083.0,
+    "mem_cache": 62407.0
+  },
+  {
+    "hour": "2026-07-02 01",
+    "mem_used": 58868.0,
+    "mem_free": 54628.0,
+    "mem_buff": 64902.0,
+    "mem_cache": 43578.0
+  },
+  {
+    "hour": "2026-07-02 02",
+    "mem_used": 67096.0,
+    "mem_free": 74244.0,
+    "mem_buff": 60801.0,
+    "mem_cache": 69508.0
+  },
+  {
+    "hour": "2026-07-02 03",
+    "mem_used": 56323.0,
+    "mem_free": 64457.0,
+    "mem_buff": 61872.0,
+    "mem_cache": 56589.0
+  },
+  {
+    "hour": "2026-07-02 04",
+    "mem_used": 67909.0,
+    "mem_free": 81225.0,
+    "mem_buff": 77117.0,
+    "mem_cache": 48489.0
+  },
+  {
+    "hour": "2026-07-02 05",
+    "mem_used": 61163.0,
+    "mem_free": 60972.0,
+    "mem_buff": 58602.0,
+    "mem_cache": 71247.0
+  },
+  {
+    "hour": "2026-07-02 06",
+    "mem_used": 57848.0,
+    "mem_free": 68894.0,
+    "mem_buff": 64341.0,
+    "mem_cache": 79269.0
+  },
+  {
+    "hour": "2026-07-02 07",
+    "mem_used": 79337.0,
+    "mem_free": 60213.0,
+    "mem_buff": 74797.0,
+    "mem_cache": 60833.0
+  },
+  {
+    "hour": "2026-07-02 08",
+    "mem_used": 78724.0,
+    "mem_free": 66080.0,
+    "mem_buff": 81198.0,
+    "mem_cache": 65797.0
+  },
+  {
+    "hour": "2026-07-02 09",
+    "mem_used": 75994.0,
+    "mem_free": 55916.0,
+    "mem_buff": 82102.0,
+    "mem_cache": 65891.0
+  },
+  {
+    "hour": "2026-07-02 10",
+    "mem_used": 54464.0,
+    "mem_free": 64625.0,
+    "mem_buff": 51682.0,
+    "mem_cache": 69325.0
+  },
+  {
+    "hour": "2026-07-02 11",
+    "mem_used": 66040.0,
+    "mem_free": 63243.0,
+    "mem_buff": 64046.0,
+    "mem_cache": 74711.0
+  },
+  {
+    "hour": "2026-07-02 12",
+    "mem_used": 79068.0,
+    "mem_free": 69318.0,
+    "mem_buff": 63623.0,
+    "mem_cache": 57308.0
+  },
+  {
+    "hour": "2026-07-02 13",
+    "mem_used": 64003.0,
+    "mem_free": 69547.0,
+    "mem_buff": 85949.0,
+    "mem_cache": 59244.0
+  },
+  {
+    "hour": "2026-07-02 14",
+    "mem_used": 68518.0,
+    "mem_free": 75396.0,
+    "mem_buff": 57177.0,
+    "mem_cache": 57243.0
+  },
+  {
+    "hour": "2026-07-02 15",
+    "mem_used": 70876.0,
+    "mem_free": 68930.0,
+    "mem_buff": 54971.0,
+    "mem_cache": 69642.0
+  },
+  {
+    "hour": "2026-07-02 16",
+    "mem_used": 64506.0,
+    "mem_free": 69259.0,
+    "mem_buff": 62725.0,
+    "mem_cache": 68422.0
+  },
+  {
+    "hour": "2026-07-02 17",
+    "mem_used": 80453.0,
+    "mem_free": 69320.0,
+    "mem_buff": 68072.0,
+    "mem_cache": 75110.0
+  },
+  {
+    "hour": "2026-07-02 18",
+    "mem_used": 50329.0,
+    "mem_free": 63495.0,
+    "mem_buff": 77341.0,
+    "mem_cache": 80753.0
+  },
+  {
+    "hour": "2026-07-02 19",
+    "mem_used": 62684.0,
+    "mem_free": 63385.0,
+    "mem_buff": 60184.0,
+    "mem_cache": 66675.0
+  },
+  {
+    "hour": "2026-07-02 20",
+    "mem_used": 62401.0,
+    "mem_free": 72733.0,
+    "mem_buff": 59479.0,
+    "mem_cache": 70416.0
+  },
+  {
+    "hour": "2026-07-02 21",
+    "mem_used": 59508.0,
+    "mem_free": 54763.0,
+    "mem_buff": 56321.0,
+    "mem_cache": 69933.0
+  },
+  {
+    "hour": "2026-07-02 22",
+    "mem_used": 73936.0,
+    "mem_free": 61293.0,
+    "mem_buff": 77172.0,
+    "mem_cache": 56700.0
+  },
+  {
+    "hour": "2026-07-02 23",
+    "mem_used": 70845.0,
+    "mem_free": 68473.0,
+    "mem_buff": 57809.0,
+    "mem_cache": 61806.0
+  },
+  {
+    "hour": "2026-07-03 00",
+    "mem_used": 82668.0,
+    "mem_free": 54858.0,
+    "mem_buff": 52152.0,
+    "mem_cache": 58809.0
+  },
+  {
+    "hour": "2026-07-03 01",
+    "mem_used": 74672.0,
+    "mem_free": 75478.0,
+    "mem_buff": 64220.0,
+    "mem_cache": 66534.0
+  },
+  {
+    "hour": "2026-07-03 02",
+    "mem_used": 55244.0,
+    "mem_free": 52152.0,
+    "mem_buff": 59898.0,
+    "mem_cache": 51000.0
+  },
+  {
+    "hour": "2026-07-03 03",
+    "mem_used": 64911.0,
+    "mem_free": 71543.0,
+    "mem_buff": 79844.0,
+    "mem_cache": 74092.0
+  },
+  {
+    "hour": "2026-07-03 04",
+    "mem_used": 55000.0,
+    "mem_free": 64284.0,
+    "mem_buff": 56823.0,
+    "mem_cache": 56175.0
+  },
+  {
+    "hour": "2026-07-03 05",
+    "mem_used": 68572.0,
+    "mem_free": 64550.0,
+    "mem_buff": 79984.0,
+    "mem_cache": 64376.0
+  },
+  {
+    "hour": "2026-07-03 06",
+    "mem_used": 50638.0,
+    "mem_free": 55651.0,
+    "mem_buff": 67677.0,
+    "mem_cache": 76092.0
+  },
+  {
+    "hour": "2026-07-03 07",
+    "mem_used": 62057.0,
+    "mem_free": 69182.0,
+    "mem_buff": 76226.0,
+    "mem_cache": 73295.0
+  },
+  {
+    "hour": "2026-07-03 08",
+    "mem_used": 70708.0,
+    "mem_free": 69422.0,
+    "mem_buff": 50161.0,
+    "mem_cache": 70362.0
+  },
+  {
+    "hour": "2026-07-03 09",
+    "mem_used": 68289.0,
+    "mem_free": 69489.0,
+    "mem_buff": 65992.0,
+    "mem_cache": 84525.0
+  },
+  {
+    "hour": "2026-07-03 10",
+    "mem_used": 59881.0,
+    "mem_free": 63142.0,
+    "mem_buff": 58293.0,
+    "mem_cache": 76124.0
+  },
+  {
+    "hour": "2026-07-03 11",
+    "mem_used": 51524.0,
+    "mem_free": 69546.0,
+    "mem_buff": 46616.0,
+    "mem_cache": 61603.0
+  },
+  {
+    "hour": "2026-07-03 12",
+    "mem_used": 57793.0,
+    "mem_free": 55497.0,
+    "mem_buff": 73782.0,
+    "mem_cache": 66346.0
+  },
+  {
+    "hour": "2026-07-03 13",
+    "mem_used": 80090.0,
+    "mem_free": 79505.0,
+    "mem_buff": 74851.0,
+    "mem_cache": 56650.0
+  },
+  {
+    "hour": "2026-07-03 14",
+    "mem_used": 65688.0,
+    "mem_free": 72756.0,
+    "mem_buff": 67004.0,
+    "mem_cache": 67822.0
+  },
+  {
+    "hour": "2026-07-03 15",
+    "mem_used": 59119.0,
+    "mem_free": 70908.0,
+    "mem_buff": 76212.0,
+    "mem_cache": 66304.0
+  },
+  {
+    "hour": "2026-07-03 16",
+    "mem_used": 66351.0,
+    "mem_free": 54480.0,
+    "mem_buff": 62225.0,
+    "mem_cache": 63846.0
+  },
+  {
+    "hour": "2026-07-03 17",
+    "mem_used": 43565.0,
+    "mem_free": 67095.0,
+    "mem_buff": 54547.0,
+    "mem_cache": 61562.0
+  },
+  {
+    "hour": "2026-07-03 18",
+    "mem_used": 61886.0,
+    "mem_free": 72163.0,
+    "mem_buff": 76347.0,
+    "mem_cache": 51954.0
+  },
+  {
+    "hour": "2026-07-03 19",
+    "mem_used": 77075.0,
+    "mem_free": 60487.0,
+    "mem_buff": 59824.0,
+    "mem_cache": 68090.0
+  },
+  {
+    "hour": "2026-07-03 20",
+    "mem_used": 66451.0,
+    "mem_free": 58078.0,
+    "mem_buff": 62556.0,
+    "mem_cache": 69660.0
+  },
+  {
+    "hour": "2026-07-03 21",
+    "mem_used": 70381.0,
+    "mem_free": 75271.0,
+    "mem_buff": 71448.0,
+    "mem_cache": 68515.0
+  },
+  {
+    "hour": "2026-07-03 22",
+    "mem_used": 71481.0,
+    "mem_free": 65496.0,
+    "mem_buff": 74572.0,
+    "mem_cache": 65422.0
+  },
+  {
+    "hour": "2026-07-03 23",
+    "mem_used": 72283.0,
+    "mem_free": 67229.0,
+    "mem_buff": 52867.0,
+    "mem_cache": 67886.0
+  },
+  {
+    "hour": "2026-07-04 00",
+    "mem_used": 54844.0,
+    "mem_free": 67829.0,
+    "mem_buff": 67575.0,
+    "mem_cache": 65166.0
+  },
+  {
+    "hour": "2026-07-04 01",
+    "mem_used": 58915.0,
+    "mem_free": 65254.0,
+    "mem_buff": 61468.0,
+    "mem_cache": 75211.0
+  },
+  {
+    "hour": "2026-07-04 02",
+    "mem_used": 73971.0,
+    "mem_free": 66787.0,
+    "mem_buff": 76462.0,
+    "mem_cache": 64498.0
+  },
+  {
+    "hour": "2026-07-04 03",
+    "mem_used": 51148.0,
+    "mem_free": 57472.0,
+    "mem_buff": 60420.0,
+    "mem_cache": 57009.0
+  },
+  {
+    "hour": "2026-07-04 04",
+    "mem_used": 57954.0,
+    "mem_free": 62687.0,
+    "mem_buff": 66251.0,
+    "mem_cache": 55608.0
+  },
+  {
+    "hour": "2026-07-04 05",
+    "mem_used": 66675.0,
+    "mem_free": 80295.0,
+    "mem_buff": 75237.0,
+    "mem_cache": 73465.0
+  },
+  {
+    "hour": "2026-07-04 06",
+    "mem_used": 60981.0,
+    "mem_free": 75546.0,
+    "mem_buff": 65924.0,
+    "mem_cache": 56518.0
+  },
+  {
+    "hour": "2026-07-04 07",
+    "mem_used": 61234.0,
+    "mem_free": 59803.0,
+    "mem_buff": 45328.0,
+    "mem_cache": 69792.0
+  },
+  {
+    "hour": "2026-07-04 08",
+    "mem_used": 67291.0,
+    "mem_free": 71414.0,
+    "mem_buff": 80570.0,
+    "mem_cache": 52201.0
+  },
+  {
+    "hour": "2026-07-04 09",
+    "mem_used": 65090.0,
+    "mem_free": 68152.0,
+    "mem_buff": 62468.0,
+    "mem_cache": 62890.0
+  },
+  {
+    "hour": "2026-07-04 10",
+    "mem_used": 74429.0,
+    "mem_free": 60535.0,
+    "mem_buff": 65757.0,
+    "mem_cache": 61319.0
+  },
+  {
+    "hour": "2026-07-04 11",
+    "mem_used": 82428.0,
+    "mem_free": 66448.0,
+    "mem_buff": 78832.0,
+    "mem_cache": 68198.0
+  },
+  {
+    "hour": "2026-07-04 12",
+    "mem_used": 78785.0,
+    "mem_free": 69880.0,
+    "mem_buff": 71992.0,
+    "mem_cache": 71349.0
+  },
+  {
+    "hour": "2026-07-04 13",
+    "mem_used": 69217.0,
+    "mem_free": 66956.0,
+    "mem_buff": 77836.0,
+    "mem_cache": 76561.0
+  },
+  {
+    "hour": "2026-07-04 14",
+    "mem_used": 54698.0,
+    "mem_free": 65357.0,
+    "mem_buff": 60946.0,
+    "mem_cache": 62744.0
+  },
+  {
+    "hour": "2026-07-04 15",
+    "mem_used": 56179.0,
+    "mem_free": 64658.0,
+    "mem_buff": 86485.0,
+    "mem_cache": 84252.0
+  },
+  {
+    "hour": "2026-07-04 16",
+    "mem_used": 67602.0,
+    "mem_free": 68096.0,
+    "mem_buff": 69906.0,
+    "mem_cache": 65062.0
+  },
+  {
+    "hour": "2026-07-04 17",
+    "mem_used": 65215.0,
+    "mem_free": 62131.0,
+    "mem_buff": 74992.0,
+    "mem_cache": 69740.0
+  },
+  {
+    "hour": "2026-07-04 18",
+    "mem_used": 67157.0,
+    "mem_free": 64045.0,
+    "mem_buff": 53535.0,
+    "mem_cache": 74458.0
+  },
+  {
+    "hour": "2026-07-04 19",
+    "mem_used": 76526.0,
+    "mem_free": 72143.0,
+    "mem_buff": 72497.0,
+    "mem_cache": 57887.0
+  },
+  {
+    "hour": "2026-07-04 20",
+    "mem_used": 60886.0,
+    "mem_free": 46262.0,
+    "mem_buff": 71987.0,
+    "mem_cache": 71710.0
+  },
+  {
+    "hour": "2026-07-04 21",
+    "mem_used": 76274.0,
+    "mem_free": 55194.0,
+    "mem_buff": 70326.0,
+    "mem_cache": 69277.0
+  },
+  {
+    "hour": "2026-07-04 22",
+    "mem_used": 63572.0,
+    "mem_free": 76345.0,
+    "mem_buff": 75288.0,
+    "mem_cache": 58694.0
+  },
+  {
+    "hour": "2026-07-04 23",
+    "mem_used": 62781.0,
+    "mem_free": 67010.0,
+    "mem_buff": 64210.0,
+    "mem_cache": 71264.0
+  },
+  {
+    "hour": "2026-07-05 00",
+    "mem_used": 61664.0,
+    "mem_free": 58259.0,
+    "mem_buff": 57686.0,
+    "mem_cache": 77940.0
+  },
+  {
+    "hour": "2026-07-05 01",
+    "mem_used": 54511.0,
+    "mem_free": 59712.0,
+    "mem_buff": 79322.0,
+    "mem_cache": 74988.0
+  },
+  {
+    "hour": "2026-07-05 02",
+    "mem_used": 65632.0,
+    "mem_free": 75965.0,
+    "mem_buff": 62038.0,
+    "mem_cache": 55839.0
+  },
+  {
+    "hour": "2026-07-05 03",
+    "mem_used": 53583.0,
+    "mem_free": 72885.0,
+    "mem_buff": 66853.0,
+    "mem_cache": 61008.0
+  },
+  {
+    "hour": "2026-07-05 04",
+    "mem_used": 73480.0,
+    "mem_free": 64739.0,
+    "mem_buff": 65154.0,
+    "mem_cache": 60763.0
+  },
+  {
+    "hour": "2026-07-05 05",
+    "mem_used": 66346.0,
+    "mem_free": 78990.0,
+    "mem_buff": 72753.0,
+    "mem_cache": 72207.0
+  },
+  {
+    "hour": "2026-07-05 06",
+    "mem_used": 66887.0,
+    "mem_free": 48529.0,
+    "mem_buff": 65278.0,
+    "mem_cache": 66119.0
+  },
+  {
+    "hour": "2026-07-05 07",
+    "mem_used": 76535.0,
+    "mem_free": 59937.0,
+    "mem_buff": 62251.0,
+    "mem_cache": 51696.0
+  },
+  {
+    "hour": "2026-07-05 08",
+    "mem_used": 63856.0,
+    "mem_free": 87248.0,
+    "mem_buff": 70952.0,
+    "mem_cache": 70825.0
+  },
+  {
+    "hour": "2026-07-05 09",
+    "mem_used": 69834.0,
+    "mem_free": 73879.0,
+    "mem_buff": 65808.0,
+    "mem_cache": 60617.0
+  },
+  {
+    "hour": "2026-07-05 10",
+    "mem_used": 71023.0,
+    "mem_free": 76445.0,
+    "mem_buff": 61422.0,
+    "mem_cache": 62110.0
+  },
+  {
+    "hour": "2026-07-05 11",
+    "mem_used": 60496.0,
+    "mem_free": 66027.0,
+    "mem_buff": 56981.0,
+    "mem_cache": 69929.0
+  },
+  {
+    "hour": "2026-07-05 12",
+    "mem_used": 68147.0,
+    "mem_free": 66257.0,
+    "mem_buff": 55178.0,
+    "mem_cache": 61690.0
+  },
+  {
+    "hour": "2026-07-05 13",
+    "mem_used": 62402.0,
+    "mem_free": 62477.0,
+    "mem_buff": 51702.0,
+    "mem_cache": 70606.0
+  },
+  {
+    "hour": "2026-07-05 14",
+    "mem_used": 56897.0,
+    "mem_free": 71944.0,
+    "mem_buff": 62287.0,
+    "mem_cache": 59648.0
+  },
+  {
+    "hour": "2026-07-05 15",
+    "mem_used": 59709.0,
+    "mem_free": 63969.0,
+    "mem_buff": 73183.0,
+    "mem_cache": 53766.0
+  },
+  {
+    "hour": "2026-07-05 16",
+    "mem_used": 54907.0,
+    "mem_free": 76219.0,
+    "mem_buff": 76370.0,
+    "mem_cache": 51629.0
+  },
+  {
+    "hour": "2026-07-05 17",
+    "mem_used": 71219.0,
+    "mem_free": 57411.0,
+    "mem_buff": 68553.0,
+    "mem_cache": 64276.0
+  },
+  {
+    "hour": "2026-07-05 18",
+    "mem_used": 64600.0,
+    "mem_free": 72459.0,
+    "mem_buff": 74657.0,
+    "mem_cache": 58420.0
+  },
+  {
+    "hour": "2026-07-05 19",
+    "mem_used": 75410.0,
+    "mem_free": 72406.0,
+    "mem_buff": 88294.0,
+    "mem_cache": 62719.0
+  },
+  {
+    "hour": "2026-07-05 20",
+    "mem_used": 57643.0,
+    "mem_free": 73947.0,
+    "mem_buff": 59429.0,
+    "mem_cache": 72591.0
+  },
+  {
+    "hour": "2026-07-05 21",
+    "mem_used": 63022.0,
+    "mem_free": 59795.0,
+    "mem_buff": 56544.0,
+    "mem_cache": 63043.0
+  },
+  {
+    "hour": "2026-07-05 22",
+    "mem_used": 67652.0,
+    "mem_free": 69689.0,
+    "mem_buff": 66361.0,
+    "mem_cache": 79244.0
+  },
+  {
+    "hour": "2026-07-05 23",
+    "mem_used": 73241.0,
+    "mem_free": 58380.0,
+    "mem_buff": 75623.0,
+    "mem_cache": 65669.0
+  },
+  {
+    "hour": "2026-07-06 00",
+    "mem_used": 51620.0,
+    "mem_free": 65220.0,
+    "mem_buff": 72023.0,
+    "mem_cache": 62228.0
+  },
+  {
+    "hour": "2026-07-06 01",
+    "mem_used": 63058.0,
+    "mem_free": 77106.0,
+    "mem_buff": 65536.0,
+    "mem_cache": 55958.0
+  },
+  {
+    "hour": "2026-07-06 02",
+    "mem_used": 68254.0,
+    "mem_free": 59593.0,
+    "mem_buff": 60784.0,
+    "mem_cache": 83483.0
+  },
+  {
+    "hour": "2026-07-06 03",
+    "mem_used": 62579.0,
+    "mem_free": 52968.0,
+    "mem_buff": 74762.0,
+    "mem_cache": 53618.0
+  },
+  {
+    "hour": "2026-07-06 04",
+    "mem_used": 80049.0,
+    "mem_free": 62290.0,
+    "mem_buff": 59294.0,
+    "mem_cache": 52840.0
+  },
+  {
+    "hour": "2026-07-06 05",
+    "mem_used": 66783.0,
+    "mem_free": 65724.0,
+    "mem_buff": 58379.0,
+    "mem_cache": 61533.0
+  },
+  {
+    "hour": "2026-07-06 06",
+    "mem_used": 68379.0,
+    "mem_free": 57730.0,
+    "mem_buff": 80434.0,
+    "mem_cache": 71347.0
+  },
+  {
+    "hour": "2026-07-06 07",
+    "mem_used": 66633.0,
+    "mem_free": 58401.0,
+    "mem_buff": 67285.0,
+    "mem_cache": 84094.0
+  },
+  {
+    "hour": "2026-07-06 08",
+    "mem_used": 62800.0,
+    "mem_free": 67721.0,
+    "mem_buff": 62353.0,
+    "mem_cache": 86631.0
+  },
+  {
+    "hour": "2026-07-06 09",
+    "mem_used": 70210.0,
+    "mem_free": 77775.0,
+    "mem_buff": 62034.0,
+    "mem_cache": 59270.0
+  },
+  {
+    "hour": "2026-07-06 10",
+    "mem_used": 82482.0,
+    "mem_free": 75544.0,
+    "mem_buff": 59560.0,
+    "mem_cache": 65809.0
+  },
+  {
+    "hour": "2026-07-06 11",
+    "mem_used": 49501.0,
+    "mem_free": 57126.0,
+    "mem_buff": 51981.0,
+    "mem_cache": 77400.0
+  },
+  {
+    "hour": "2026-07-06 12",
+    "mem_used": 82388.0,
+    "mem_free": 50059.0,
+    "mem_buff": 46669.0,
+    "mem_cache": 71169.0
+  },
+  {
+    "hour": "2026-07-06 13",
+    "mem_used": 57053.0,
+    "mem_free": 41744.0,
+    "mem_buff": 50057.0,
+    "mem_cache": 63733.0
+  },
+  {
+    "hour": "2026-07-06 14",
+    "mem_used": 66998.0,
+    "mem_free": 57453.0,
+    "mem_buff": 71164.0,
+    "mem_cache": 85616.0
+  },
+  {
+    "hour": "2026-07-06 15",
+    "mem_used": 70489.0,
+    "mem_free": 63350.0,
+    "mem_buff": 60850.0,
+    "mem_cache": 66031.0
+  },
+  {
+    "hour": "2026-07-06 16",
+    "mem_used": 69367.0,
+    "mem_free": 70876.0,
+    "mem_buff": 67775.0,
+    "mem_cache": 53584.0
+  },
+  {
+    "hour": "2026-07-06 17",
+    "mem_used": 56210.0,
+    "mem_free": 46530.0,
+    "mem_buff": 67178.0,
+    "mem_cache": 64323.0
+  },
+  {
+    "hour": "2026-07-06 18",
+    "mem_used": 59330.0,
+    "mem_free": 78886.0,
+    "mem_buff": 62125.0,
+    "mem_cache": 80506.0
+  },
+  {
+    "hour": "2026-07-06 19",
+    "mem_used": 68069.0,
+    "mem_free": 82931.0,
+    "mem_buff": 42879.0,
+    "mem_cache": 62140.0
+  },
+  {
+    "hour": "2026-07-06 20",
+    "mem_used": 70140.0,
+    "mem_free": 78934.0,
+    "mem_buff": 70681.0,
+    "mem_cache": 71162.0
+  },
+  {
+    "hour": "2026-07-06 21",
+    "mem_used": 84430.0,
+    "mem_free": 50721.0,
+    "mem_buff": 62229.0,
+    "mem_cache": 58443.0
+  },
+  {
+    "hour": "2026-07-06 22",
+    "mem_used": 68181.0,
+    "mem_free": 62452.0,
+    "mem_buff": 66612.0,
+    "mem_cache": 51466.0
+  },
+  {
+    "hour": "2026-07-06 23",
+    "mem_used": 74226.0,
+    "mem_free": 69732.0,
+    "mem_buff": 68472.0,
+    "mem_cache": 59771.0
+  },
+  {
+    "hour": "2026-07-07 00",
+    "mem_used": 66355.0,
+    "mem_free": 71462.0,
+    "mem_buff": 73406.0,
+    "mem_cache": 62824.0
+  },
+  {
+    "hour": "2026-07-07 01",
+    "mem_used": 67179.0,
+    "mem_free": 55947.0,
+    "mem_buff": 70799.0,
+    "mem_cache": 66820.0
+  },
+  {
+    "hour": "2026-07-07 02",
+    "mem_used": 75739.0,
+    "mem_free": 55696.0,
+    "mem_buff": 72827.0,
+    "mem_cache": 60811.0
+  },
+  {
+    "hour": "2026-07-07 03",
+    "mem_used": 47342.0,
+    "mem_free": 73276.0,
+    "mem_buff": 73772.0,
+    "mem_cache": 73255.0
+  },
+  {
+    "hour": "2026-07-07 04",
+    "mem_used": 70250.0,
+    "mem_free": 79482.0,
+    "mem_buff": 67693.0,
+    "mem_cache": 53148.0
+  },
+  {
+    "hour": "2026-07-07 05",
+    "mem_used": 70632.0,
+    "mem_free": 67104.0,
+    "mem_buff": 64542.0,
+    "mem_cache": 68794.0
+  },
+  {
+    "hour": "2026-07-07 06",
+    "mem_used": 56553.0,
+    "mem_free": 56176.0,
+    "mem_buff": 66073.0,
+    "mem_cache": 68099.0
+  },
+  {
+    "hour": "2026-07-07 07",
+    "mem_used": 74730.0,
+    "mem_free": 61833.0,
+    "mem_buff": 55600.0,
+    "mem_cache": 66372.0
+  },
+  {
+    "hour": "2026-07-07 08",
+    "mem_used": 64891.0,
+    "mem_free": 72897.0,
+    "mem_buff": 74305.0,
+    "mem_cache": 67783.0
+  },
+  {
+    "hour": "2026-07-07 09",
+    "mem_used": 74414.0,
+    "mem_free": 57616.0,
+    "mem_buff": 58478.0,
+    "mem_cache": 79614.0
+  },
+  {
+    "hour": "2026-07-07 10",
+    "mem_used": 69873.0,
+    "mem_free": 56355.0,
+    "mem_buff": 69155.0,
+    "mem_cache": 55002.0
+  },
+  {
+    "hour": "2026-07-07 11",
+    "mem_used": 65431.0,
+    "mem_free": 62055.0,
+    "mem_buff": 75005.0,
+    "mem_cache": 79536.0
+  },
+  {
+    "hour": "2026-07-07 12",
+    "mem_used": 80438.0,
+    "mem_free": 70350.0,
+    "mem_buff": 55999.0,
+    "mem_cache": 63713.0
+  },
+  {
+    "hour": "2026-07-07 13",
+    "mem_used": 55312.0,
+    "mem_free": 79726.0,
+    "mem_buff": 78212.0,
+    "mem_cache": 62252.0
+  },
+  {
+    "hour": "2026-07-07 14",
+    "mem_used": 80648.0,
+    "mem_free": 50646.0,
+    "mem_buff": 61835.0,
+    "mem_cache": 58902.0
+  },
+  {
+    "hour": "2026-07-07 15",
+    "mem_used": 72031.0,
+    "mem_free": 79168.0,
+    "mem_buff": 57719.0,
+    "mem_cache": 53707.0
+  },
+  {
+    "hour": "2026-07-07 16",
+    "mem_used": 65359.0,
+    "mem_free": 66495.0,
+    "mem_buff": 62138.0,
+    "mem_cache": 78041.0
+  },
+  {
+    "hour": "2026-07-07 17",
+    "mem_used": 67635.0,
+    "mem_free": 57555.0,
+    "mem_buff": 73552.0,
+    "mem_cache": 70726.0
+  },
+  {
+    "hour": "2026-07-07 18",
+    "mem_used": 85401.0,
+    "mem_free": 66065.0,
+    "mem_buff": 79068.0,
+    "mem_cache": 77724.0
+  },
+  {
+    "hour": "2026-07-07 19",
+    "mem_used": 53056.0,
+    "mem_free": 63372.0,
+    "mem_buff": 60970.0,
+    "mem_cache": 54066.0
+  },
+  {
+    "hour": "2026-07-07 20",
+    "mem_used": 91735.0,
+    "mem_free": 80937.0,
+    "mem_buff": 66268.0,
+    "mem_cache": 62502.0
+  },
+  {
+    "hour": "2026-07-07 21",
+    "mem_used": 59419.0,
+    "mem_free": 69064.0,
+    "mem_buff": 67307.0,
+    "mem_cache": 77022.0
+  },
+  {
+    "hour": "2026-07-07 22",
+    "mem_used": 69535.0,
+    "mem_free": 68820.0,
+    "mem_buff": 63741.0,
+    "mem_cache": 66114.0
+  },
+  {
+    "hour": "2026-07-07 23",
+    "mem_used": 52462.0,
+    "mem_free": 73251.0,
+    "mem_buff": 67516.0,
+    "mem_cache": 65484.0
+  }
+]

@@ -1,0 +1,1346 @@
+[
+  {
+    "hour": "2026-07-01 00",
+    "cpu_usage": 38.78,
+    "cpu_user": 18.7,
+    "cpu_sys": 21.86,
+    "cpu_wait": 15.84,
+    "cpu_idle": 67.79
+  },
+  {
+    "hour": "2026-07-01 01",
+    "cpu_usage": 38.08,
+    "cpu_user": 33.25,
+    "cpu_sys": 23.43,
+    "cpu_wait": 27.27,
+    "cpu_idle": 51.59
+  },
+  {
+    "hour": "2026-07-01 02",
+    "cpu_usage": 48.8,
+    "cpu_user": 26.69,
+    "cpu_sys": 31.47,
+    "cpu_wait": 21.35,
+    "cpu_idle": 53.84
+  },
+  {
+    "hour": "2026-07-01 03",
+    "cpu_usage": 51.61,
+    "cpu_user": 24.33,
+    "cpu_sys": 27.61,
+    "cpu_wait": 25.91,
+    "cpu_idle": 52.06
+  },
+  {
+    "hour": "2026-07-01 04",
+    "cpu_usage": 40.14,
+    "cpu_user": 23.17,
+    "cpu_sys": 27.03,
+    "cpu_wait": 30.94,
+    "cpu_idle": 53.39
+  },
+  {
+    "hour": "2026-07-01 05",
+    "cpu_usage": 42.91,
+    "cpu_user": 25.71,
+    "cpu_sys": 25.13,
+    "cpu_wait": 26.22,
+    "cpu_idle": 51.58
+  },
+  {
+    "hour": "2026-07-01 06",
+    "cpu_usage": 47.06,
+    "cpu_user": 24.16,
+    "cpu_sys": 27.01,
+    "cpu_wait": 25.98,
+    "cpu_idle": 56.57
+  },
+  {
+    "hour": "2026-07-01 07",
+    "cpu_usage": 45.43,
+    "cpu_user": 24.55,
+    "cpu_sys": 25.47,
+    "cpu_wait": 26.08,
+    "cpu_idle": 57.76
+  },
+  {
+    "hour": "2026-07-01 08",
+    "cpu_usage": 42.66,
+    "cpu_user": 27.35,
+    "cpu_sys": 24.57,
+    "cpu_wait": 26.18,
+    "cpu_idle": 48.94
+  },
+  {
+    "hour": "2026-07-01 09",
+    "cpu_usage": 46.01,
+    "cpu_user": 12.91,
+    "cpu_sys": 28.38,
+    "cpu_wait": 22.58,
+    "cpu_idle": 48.44
+  },
+  {
+    "hour": "2026-07-01 10",
+    "cpu_usage": 47.48,
+    "cpu_user": 23.62,
+    "cpu_sys": 25.99,
+    "cpu_wait": 29.69,
+    "cpu_idle": 55.53
+  },
+  {
+    "hour": "2026-07-01 11",
+    "cpu_usage": 38.8,
+    "cpu_user": 27.84,
+    "cpu_sys": 28.13,
+    "cpu_wait": 25.85,
+    "cpu_idle": 46.97
+  },
+  {
+    "hour": "2026-07-01 12",
+    "cpu_usage": 50.06,
+    "cpu_user": 29.02,
+    "cpu_sys": 24.5,
+    "cpu_wait": 32.51,
+    "cpu_idle": 62.35
+  },
+  {
+    "hour": "2026-07-01 13",
+    "cpu_usage": 52.83,
+    "cpu_user": 29.17,
+    "cpu_sys": 29.13,
+    "cpu_wait": 24.91,
+    "cpu_idle": 52.83
+  },
+  {
+    "hour": "2026-07-01 14",
+    "cpu_usage": 35.25,
+    "cpu_user": 26.86,
+    "cpu_sys": 21.69,
+    "cpu_wait": 23.73,
+    "cpu_idle": 63.13
+  },
+  {
+    "hour": "2026-07-01 15",
+    "cpu_usage": 29.96,
+    "cpu_user": 27.59,
+    "cpu_sys": 24.38,
+    "cpu_wait": 26.07,
+    "cpu_idle": 54.36
+  },
+  {
+    "hour": "2026-07-01 16",
+    "cpu_usage": 38.26,
+    "cpu_user": 23.24,
+    "cpu_sys": 22.93,
+    "cpu_wait": 24.71,
+    "cpu_idle": 59.74
+  },
+  {
+    "hour": "2026-07-01 17",
+    "cpu_usage": 46.52,
+    "cpu_user": 25.9,
+    "cpu_sys": 26.5,
+    "cpu_wait": 21.54,
+    "cpu_idle": 50.27
+  },
+  {
+    "hour": "2026-07-01 18",
+    "cpu_usage": 44.4,
+    "cpu_user": 21.33,
+    "cpu_sys": 23.37,
+    "cpu_wait": 26.4,
+    "cpu_idle": 54.32
+  },
+  {
+    "hour": "2026-07-01 19",
+    "cpu_usage": 43.39,
+    "cpu_user": 22.66,
+    "cpu_sys": 18.73,
+    "cpu_wait": 24.24,
+    "cpu_idle": 65.35
+  },
+  {
+    "hour": "2026-07-01 20",
+    "cpu_usage": 46.38,
+    "cpu_user": 23.76,
+    "cpu_sys": 28.43,
+    "cpu_wait": 23.11,
+    "cpu_idle": 53.85
+  },
+  {
+    "hour": "2026-07-01 21",
+    "cpu_usage": 41.22,
+    "cpu_user": 28.58,
+    "cpu_sys": 26.01,
+    "cpu_wait": 18.95,
+    "cpu_idle": 56.9
+  },
+  {
+    "hour": "2026-07-01 22",
+    "cpu_usage": 48.4,
+    "cpu_user": 30.94,
+    "cpu_sys": 28.64,
+    "cpu_wait": 25.48,
+    "cpu_idle": 57.25
+  },
+  {
+    "hour": "2026-07-01 23",
+    "cpu_usage": 44.79,
+    "cpu_user": 17.82,
+    "cpu_sys": 19.18,
+    "cpu_wait": 23.14,
+    "cpu_idle": 55.72
+  },
+  {
+    "hour": "2026-07-02 00",
+    "cpu_usage": 44.66,
+    "cpu_user": 22.75,
+    "cpu_sys": 24.21,
+    "cpu_wait": 24.34,
+    "cpu_idle": 49.8
+  },
+  {
+    "hour": "2026-07-02 01",
+    "cpu_usage": 48.89,
+    "cpu_user": 17.5,
+    "cpu_sys": 26.28,
+    "cpu_wait": 23.47,
+    "cpu_idle": 49.65
+  },
+  {
+    "hour": "2026-07-02 02",
+    "cpu_usage": 31.63,
+    "cpu_user": 23.13,
+    "cpu_sys": 23.13,
+    "cpu_wait": 20.29,
+    "cpu_idle": 61.19
+  },
+  {
+    "hour": "2026-07-02 03",
+    "cpu_usage": 49.34,
+    "cpu_user": 26.94,
+    "cpu_sys": 24.64,
+    "cpu_wait": 29.44,
+    "cpu_idle": 56.99
+  },
+  {
+    "hour": "2026-07-02 04",
+    "cpu_usage": 45.73,
+    "cpu_user": 25.59,
+    "cpu_sys": 27.98,
+    "cpu_wait": 23.92,
+    "cpu_idle": 60.22
+  },
+  {
+    "hour": "2026-07-02 05",
+    "cpu_usage": 32.94,
+    "cpu_user": 25.25,
+    "cpu_sys": 27.28,
+    "cpu_wait": 28.18,
+    "cpu_idle": 61.9
+  },
+  {
+    "hour": "2026-07-02 06",
+    "cpu_usage": 39.99,
+    "cpu_user": 20.84,
+    "cpu_sys": 18.59,
+    "cpu_wait": 22.26,
+    "cpu_idle": 65.43
+  },
+  {
+    "hour": "2026-07-02 07",
+    "cpu_usage": 44.53,
+    "cpu_user": 25.4,
+    "cpu_sys": 24.35,
+    "cpu_wait": 26.89,
+    "cpu_idle": 54.9
+  },
+  {
+    "hour": "2026-07-02 08",
+    "cpu_usage": 41.18,
+    "cpu_user": 22.68,
+    "cpu_sys": 24.52,
+    "cpu_wait": 30.04,
+    "cpu_idle": 65.73
+  },
+  {
+    "hour": "2026-07-02 09",
+    "cpu_usage": 31.91,
+    "cpu_user": 22.2,
+    "cpu_sys": 19.61,
+    "cpu_wait": 24.45,
+    "cpu_idle": 57.57
+  },
+  {
+    "hour": "2026-07-02 10",
+    "cpu_usage": 37.0,
+    "cpu_user": 20.71,
+    "cpu_sys": 19.01,
+    "cpu_wait": 27.99,
+    "cpu_idle": 53.52
+  },
+  {
+    "hour": "2026-07-02 11",
+    "cpu_usage": 41.79,
+    "cpu_user": 24.7,
+    "cpu_sys": 26.42,
+    "cpu_wait": 26.07,
+    "cpu_idle": 49.95
+  },
+  {
+    "hour": "2026-07-02 12",
+    "cpu_usage": 44.33,
+    "cpu_user": 24.06,
+    "cpu_sys": 24.28,
+    "cpu_wait": 24.5,
+    "cpu_idle": 59.01
+  },
+  {
+    "hour": "2026-07-02 13",
+    "cpu_usage": 45.02,
+    "cpu_user": 24.41,
+    "cpu_sys": 25.28,
+    "cpu_wait": 22.41,
+    "cpu_idle": 54.56
+  },
+  {
+    "hour": "2026-07-02 14",
+    "cpu_usage": 43.55,
+    "cpu_user": 18.76,
+    "cpu_sys": 24.63,
+    "cpu_wait": 27.45,
+    "cpu_idle": 57.89
+  },
+  {
+    "hour": "2026-07-02 15",
+    "cpu_usage": 41.04,
+    "cpu_user": 24.95,
+    "cpu_sys": 21.71,
+    "cpu_wait": 26.47,
+    "cpu_idle": 53.16
+  },
+  {
+    "hour": "2026-07-02 16",
+    "cpu_usage": 42.12,
+    "cpu_user": 25.98,
+    "cpu_sys": 25.41,
+    "cpu_wait": 19.38,
+    "cpu_idle": 61.8
+  },
+  {
+    "hour": "2026-07-02 17",
+    "cpu_usage": 46.01,
+    "cpu_user": 32.03,
+    "cpu_sys": 27.79,
+    "cpu_wait": 31.44,
+    "cpu_idle": 60.81
+  },
+  {
+    "hour": "2026-07-02 18",
+    "cpu_usage": 37.69,
+    "cpu_user": 21.57,
+    "cpu_sys": 23.88,
+    "cpu_wait": 22.17,
+    "cpu_idle": 57.12
+  },
+  {
+    "hour": "2026-07-02 19",
+    "cpu_usage": 45.02,
+    "cpu_user": 26.28,
+    "cpu_sys": 25.49,
+    "cpu_wait": 26.33,
+    "cpu_idle": 52.13
+  },
+  {
+    "hour": "2026-07-02 20",
+    "cpu_usage": 42.69,
+    "cpu_user": 28.95,
+    "cpu_sys": 29.18,
+    "cpu_wait": 20.8,
+    "cpu_idle": 61.29
+  },
+  {
+    "hour": "2026-07-02 21",
+    "cpu_usage": 46.35,
+    "cpu_user": 21.23,
+    "cpu_sys": 24.96,
+    "cpu_wait": 25.22,
+    "cpu_idle": 55.2
+  },
+  {
+    "hour": "2026-07-02 22",
+    "cpu_usage": 45.42,
+    "cpu_user": 23.78,
+    "cpu_sys": 25.34,
+    "cpu_wait": 21.19,
+    "cpu_idle": 57.68
+  },
+  {
+    "hour": "2026-07-02 23",
+    "cpu_usage": 42.33,
+    "cpu_user": 28.62,
+    "cpu_sys": 34.76,
+    "cpu_wait": 25.74,
+    "cpu_idle": 63.49
+  },
+  {
+    "hour": "2026-07-03 00",
+    "cpu_usage": 50.11,
+    "cpu_user": 24.18,
+    "cpu_sys": 24.85,
+    "cpu_wait": 23.02,
+    "cpu_idle": 67.32
+  },
+  {
+    "hour": "2026-07-03 01",
+    "cpu_usage": 51.42,
+    "cpu_user": 23.02,
+    "cpu_sys": 26.18,
+    "cpu_wait": 27.78,
+    "cpu_idle": 51.74
+  },
+  {
+    "hour": "2026-07-03 02",
+    "cpu_usage": 41.84,
+    "cpu_user": 31.07,
+    "cpu_sys": 24.17,
+    "cpu_wait": 21.84,
+    "cpu_idle": 57.74
+  },
+  {
+    "hour": "2026-07-03 03",
+    "cpu_usage": 46.11,
+    "cpu_user": 23.17,
+    "cpu_sys": 23.27,
+    "cpu_wait": 22.92,
+    "cpu_idle": 66.36
+  },
+  {
+    "hour": "2026-07-03 04",
+    "cpu_usage": 47.03,
+    "cpu_user": 27.26,
+    "cpu_sys": 24.52,
+    "cpu_wait": 25.66,
+    "cpu_idle": 57.88
+  },
+  {
+    "hour": "2026-07-03 05",
+    "cpu_usage": 42.58,
+    "cpu_user": 25.4,
+    "cpu_sys": 28.84,
+    "cpu_wait": 19.88,
+    "cpu_idle": 57.51
+  },
+  {
+    "hour": "2026-07-03 06",
+    "cpu_usage": 46.87,
+    "cpu_user": 25.5,
+    "cpu_sys": 31.75,
+    "cpu_wait": 26.85,
+    "cpu_idle": 51.54
+  },
+  {
+    "hour": "2026-07-03 07",
+    "cpu_usage": 37.61,
+    "cpu_user": 25.91,
+    "cpu_sys": 27.83,
+    "cpu_wait": 25.85,
+    "cpu_idle": 63.73
+  },
+  {
+    "hour": "2026-07-03 08",
+    "cpu_usage": 40.16,
+    "cpu_user": 21.54,
+    "cpu_sys": 28.03,
+    "cpu_wait": 25.98,
+    "cpu_idle": 49.37
+  },
+  {
+    "hour": "2026-07-03 09",
+    "cpu_usage": 35.7,
+    "cpu_user": 26.7,
+    "cpu_sys": 22.97,
+    "cpu_wait": 28.17,
+    "cpu_idle": 59.44
+  },
+  {
+    "hour": "2026-07-03 10",
+    "cpu_usage": 42.11,
+    "cpu_user": 29.61,
+    "cpu_sys": 27.39,
+    "cpu_wait": 24.18,
+    "cpu_idle": 60.94
+  },
+  {
+    "hour": "2026-07-03 11",
+    "cpu_usage": 47.48,
+    "cpu_user": 18.06,
+    "cpu_sys": 22.57,
+    "cpu_wait": 17.84,
+    "cpu_idle": 61.66
+  },
+  {
+    "hour": "2026-07-03 12",
+    "cpu_usage": 44.89,
+    "cpu_user": 21.59,
+    "cpu_sys": 30.43,
+    "cpu_wait": 22.66,
+    "cpu_idle": 60.59
+  },
+  {
+    "hour": "2026-07-03 13",
+    "cpu_usage": 39.56,
+    "cpu_user": 21.77,
+    "cpu_sys": 24.51,
+    "cpu_wait": 18.64,
+    "cpu_idle": 55.3
+  },
+  {
+    "hour": "2026-07-03 14",
+    "cpu_usage": 47.57,
+    "cpu_user": 26.94,
+    "cpu_sys": 25.02,
+    "cpu_wait": 17.06,
+    "cpu_idle": 59.76
+  },
+  {
+    "hour": "2026-07-03 15",
+    "cpu_usage": 44.82,
+    "cpu_user": 27.37,
+    "cpu_sys": 21.22,
+    "cpu_wait": 25.45,
+    "cpu_idle": 46.9
+  },
+  {
+    "hour": "2026-07-03 16",
+    "cpu_usage": 44.59,
+    "cpu_user": 25.26,
+    "cpu_sys": 29.16,
+    "cpu_wait": 18.56,
+    "cpu_idle": 59.58
+  },
+  {
+    "hour": "2026-07-03 17",
+    "cpu_usage": 40.4,
+    "cpu_user": 28.58,
+    "cpu_sys": 31.47,
+    "cpu_wait": 25.78,
+    "cpu_idle": 55.02
+  },
+  {
+    "hour": "2026-07-03 18",
+    "cpu_usage": 40.99,
+    "cpu_user": 27.2,
+    "cpu_sys": 21.54,
+    "cpu_wait": 24.41,
+    "cpu_idle": 57.64
+  },
+  {
+    "hour": "2026-07-03 19",
+    "cpu_usage": 42.46,
+    "cpu_user": 22.66,
+    "cpu_sys": 21.54,
+    "cpu_wait": 24.22,
+    "cpu_idle": 55.98
+  },
+  {
+    "hour": "2026-07-03 20",
+    "cpu_usage": 47.98,
+    "cpu_user": 27.91,
+    "cpu_sys": 23.27,
+    "cpu_wait": 29.82,
+    "cpu_idle": 59.91
+  },
+  {
+    "hour": "2026-07-03 21",
+    "cpu_usage": 48.18,
+    "cpu_user": 26.0,
+    "cpu_sys": 32.8,
+    "cpu_wait": 19.34,
+    "cpu_idle": 54.8
+  },
+  {
+    "hour": "2026-07-03 22",
+    "cpu_usage": 39.35,
+    "cpu_user": 23.25,
+    "cpu_sys": 20.31,
+    "cpu_wait": 28.5,
+    "cpu_idle": 60.27
+  },
+  {
+    "hour": "2026-07-03 23",
+    "cpu_usage": 47.03,
+    "cpu_user": 21.98,
+    "cpu_sys": 23.12,
+    "cpu_wait": 25.42,
+    "cpu_idle": 61.23
+  },
+  {
+    "hour": "2026-07-04 00",
+    "cpu_usage": 43.5,
+    "cpu_user": 27.48,
+    "cpu_sys": 21.21,
+    "cpu_wait": 26.33,
+    "cpu_idle": 50.94
+  },
+  {
+    "hour": "2026-07-04 01",
+    "cpu_usage": 52.57,
+    "cpu_user": 24.59,
+    "cpu_sys": 22.27,
+    "cpu_wait": 30.43,
+    "cpu_idle": 58.71
+  },
+  {
+    "hour": "2026-07-04 02",
+    "cpu_usage": 42.64,
+    "cpu_user": 26.42,
+    "cpu_sys": 31.0,
+    "cpu_wait": 25.58,
+    "cpu_idle": 57.62
+  },
+  {
+    "hour": "2026-07-04 03",
+    "cpu_usage": 37.72,
+    "cpu_user": 19.82,
+    "cpu_sys": 20.8,
+    "cpu_wait": 24.19,
+    "cpu_idle": 61.75
+  },
+  {
+    "hour": "2026-07-04 04",
+    "cpu_usage": 38.61,
+    "cpu_user": 21.51,
+    "cpu_sys": 25.19,
+    "cpu_wait": 25.87,
+    "cpu_idle": 59.4
+  },
+  {
+    "hour": "2026-07-04 05",
+    "cpu_usage": 43.78,
+    "cpu_user": 25.34,
+    "cpu_sys": 24.59,
+    "cpu_wait": 25.05,
+    "cpu_idle": 62.22
+  },
+  {
+    "hour": "2026-07-04 06",
+    "cpu_usage": 39.11,
+    "cpu_user": 25.98,
+    "cpu_sys": 27.37,
+    "cpu_wait": 29.24,
+    "cpu_idle": 61.91
+  },
+  {
+    "hour": "2026-07-04 07",
+    "cpu_usage": 41.06,
+    "cpu_user": 30.05,
+    "cpu_sys": 24.98,
+    "cpu_wait": 23.87,
+    "cpu_idle": 57.5
+  },
+  {
+    "hour": "2026-07-04 08",
+    "cpu_usage": 39.06,
+    "cpu_user": 30.47,
+    "cpu_sys": 31.63,
+    "cpu_wait": 24.6,
+    "cpu_idle": 53.28
+  },
+  {
+    "hour": "2026-07-04 09",
+    "cpu_usage": 47.8,
+    "cpu_user": 23.73,
+    "cpu_sys": 26.77,
+    "cpu_wait": 27.03,
+    "cpu_idle": 58.88
+  },
+  {
+    "hour": "2026-07-04 10",
+    "cpu_usage": 43.85,
+    "cpu_user": 25.33,
+    "cpu_sys": 26.01,
+    "cpu_wait": 24.27,
+    "cpu_idle": 46.83
+  },
+  {
+    "hour": "2026-07-04 11",
+    "cpu_usage": 39.3,
+    "cpu_user": 25.98,
+    "cpu_sys": 27.72,
+    "cpu_wait": 25.84,
+    "cpu_idle": 63.63
+  },
+  {
+    "hour": "2026-07-04 12",
+    "cpu_usage": 50.93,
+    "cpu_user": 23.7,
+    "cpu_sys": 26.87,
+    "cpu_wait": 24.76,
+    "cpu_idle": 57.04
+  },
+  {
+    "hour": "2026-07-04 13",
+    "cpu_usage": 47.15,
+    "cpu_user": 20.75,
+    "cpu_sys": 23.05,
+    "cpu_wait": 24.64,
+    "cpu_idle": 54.35
+  },
+  {
+    "hour": "2026-07-04 14",
+    "cpu_usage": 40.87,
+    "cpu_user": 25.85,
+    "cpu_sys": 27.69,
+    "cpu_wait": 24.75,
+    "cpu_idle": 56.45
+  },
+  {
+    "hour": "2026-07-04 15",
+    "cpu_usage": 40.42,
+    "cpu_user": 26.36,
+    "cpu_sys": 26.86,
+    "cpu_wait": 26.09,
+    "cpu_idle": 52.99
+  },
+  {
+    "hour": "2026-07-04 16",
+    "cpu_usage": 44.15,
+    "cpu_user": 24.95,
+    "cpu_sys": 24.66,
+    "cpu_wait": 24.65,
+    "cpu_idle": 62.62
+  },
+  {
+    "hour": "2026-07-04 17",
+    "cpu_usage": 46.3,
+    "cpu_user": 23.26,
+    "cpu_sys": 26.27,
+    "cpu_wait": 23.53,
+    "cpu_idle": 55.23
+  },
+  {
+    "hour": "2026-07-04 18",
+    "cpu_usage": 51.92,
+    "cpu_user": 22.22,
+    "cpu_sys": 23.74,
+    "cpu_wait": 27.19,
+    "cpu_idle": 60.18
+  },
+  {
+    "hour": "2026-07-04 19",
+    "cpu_usage": 37.64,
+    "cpu_user": 25.1,
+    "cpu_sys": 23.09,
+    "cpu_wait": 26.97,
+    "cpu_idle": 61.23
+  },
+  {
+    "hour": "2026-07-04 20",
+    "cpu_usage": 33.91,
+    "cpu_user": 24.15,
+    "cpu_sys": 27.42,
+    "cpu_wait": 25.06,
+    "cpu_idle": 59.85
+  },
+  {
+    "hour": "2026-07-04 21",
+    "cpu_usage": 37.42,
+    "cpu_user": 24.86,
+    "cpu_sys": 26.1,
+    "cpu_wait": 23.41,
+    "cpu_idle": 48.24
+  },
+  {
+    "hour": "2026-07-04 22",
+    "cpu_usage": 37.21,
+    "cpu_user": 20.75,
+    "cpu_sys": 27.7,
+    "cpu_wait": 24.1,
+    "cpu_idle": 55.75
+  },
+  {
+    "hour": "2026-07-04 23",
+    "cpu_usage": 39.1,
+    "cpu_user": 28.24,
+    "cpu_sys": 23.01,
+    "cpu_wait": 22.03,
+    "cpu_idle": 56.26
+  },
+  {
+    "hour": "2026-07-05 00",
+    "cpu_usage": 38.55,
+    "cpu_user": 30.86,
+    "cpu_sys": 25.41,
+    "cpu_wait": 30.76,
+    "cpu_idle": 57.06
+  },
+  {
+    "hour": "2026-07-05 01",
+    "cpu_usage": 43.88,
+    "cpu_user": 26.47,
+    "cpu_sys": 28.2,
+    "cpu_wait": 23.44,
+    "cpu_idle": 62.62
+  },
+  {
+    "hour": "2026-07-05 02",
+    "cpu_usage": 45.97,
+    "cpu_user": 25.32,
+    "cpu_sys": 21.09,
+    "cpu_wait": 27.94,
+    "cpu_idle": 61.26
+  },
+  {
+    "hour": "2026-07-05 03",
+    "cpu_usage": 40.58,
+    "cpu_user": 23.35,
+    "cpu_sys": 24.26,
+    "cpu_wait": 27.26,
+    "cpu_idle": 47.44
+  },
+  {
+    "hour": "2026-07-05 04",
+    "cpu_usage": 41.14,
+    "cpu_user": 25.34,
+    "cpu_sys": 20.45,
+    "cpu_wait": 29.37,
+    "cpu_idle": 60.11
+  },
+  {
+    "hour": "2026-07-05 05",
+    "cpu_usage": 50.03,
+    "cpu_user": 24.61,
+    "cpu_sys": 23.6,
+    "cpu_wait": 32.82,
+    "cpu_idle": 59.65
+  },
+  {
+    "hour": "2026-07-05 06",
+    "cpu_usage": 42.17,
+    "cpu_user": 23.47,
+    "cpu_sys": 24.13,
+    "cpu_wait": 23.2,
+    "cpu_idle": 60.85
+  },
+  {
+    "hour": "2026-07-05 07",
+    "cpu_usage": 48.71,
+    "cpu_user": 27.15,
+    "cpu_sys": 19.27,
+    "cpu_wait": 21.83,
+    "cpu_idle": 52.66
+  },
+  {
+    "hour": "2026-07-05 08",
+    "cpu_usage": 35.6,
+    "cpu_user": 27.97,
+    "cpu_sys": 20.14,
+    "cpu_wait": 15.55,
+    "cpu_idle": 57.98
+  },
+  {
+    "hour": "2026-07-05 09",
+    "cpu_usage": 41.76,
+    "cpu_user": 23.17,
+    "cpu_sys": 23.1,
+    "cpu_wait": 19.02,
+    "cpu_idle": 62.68
+  },
+  {
+    "hour": "2026-07-05 10",
+    "cpu_usage": 31.3,
+    "cpu_user": 19.45,
+    "cpu_sys": 23.05,
+    "cpu_wait": 23.64,
+    "cpu_idle": 54.7
+  },
+  {
+    "hour": "2026-07-05 11",
+    "cpu_usage": 45.19,
+    "cpu_user": 31.18,
+    "cpu_sys": 21.73,
+    "cpu_wait": 23.75,
+    "cpu_idle": 62.61
+  },
+  {
+    "hour": "2026-07-05 12",
+    "cpu_usage": 44.06,
+    "cpu_user": 24.86,
+    "cpu_sys": 23.69,
+    "cpu_wait": 25.3,
+    "cpu_idle": 71.13
+  },
+  {
+    "hour": "2026-07-05 13",
+    "cpu_usage": 50.29,
+    "cpu_user": 32.14,
+    "cpu_sys": 24.39,
+    "cpu_wait": 28.42,
+    "cpu_idle": 57.78
+  },
+  {
+    "hour": "2026-07-05 14",
+    "cpu_usage": 47.59,
+    "cpu_user": 25.32,
+    "cpu_sys": 28.98,
+    "cpu_wait": 23.66,
+    "cpu_idle": 57.27
+  },
+  {
+    "hour": "2026-07-05 15",
+    "cpu_usage": 44.24,
+    "cpu_user": 24.11,
+    "cpu_sys": 25.19,
+    "cpu_wait": 26.08,
+    "cpu_idle": 57.3
+  },
+  {
+    "hour": "2026-07-05 16",
+    "cpu_usage": 43.79,
+    "cpu_user": 24.7,
+    "cpu_sys": 21.61,
+    "cpu_wait": 29.77,
+    "cpu_idle": 53.35
+  },
+  {
+    "hour": "2026-07-05 17",
+    "cpu_usage": 44.1,
+    "cpu_user": 26.15,
+    "cpu_sys": 31.57,
+    "cpu_wait": 29.22,
+    "cpu_idle": 59.14
+  },
+  {
+    "hour": "2026-07-05 18",
+    "cpu_usage": 43.23,
+    "cpu_user": 19.93,
+    "cpu_sys": 25.98,
+    "cpu_wait": 23.55,
+    "cpu_idle": 50.08
+  },
+  {
+    "hour": "2026-07-05 19",
+    "cpu_usage": 44.76,
+    "cpu_user": 22.54,
+    "cpu_sys": 24.81,
+    "cpu_wait": 25.46,
+    "cpu_idle": 60.22
+  },
+  {
+    "hour": "2026-07-05 20",
+    "cpu_usage": 42.66,
+    "cpu_user": 27.31,
+    "cpu_sys": 23.51,
+    "cpu_wait": 30.45,
+    "cpu_idle": 55.56
+  },
+  {
+    "hour": "2026-07-05 21",
+    "cpu_usage": 44.81,
+    "cpu_user": 29.77,
+    "cpu_sys": 27.57,
+    "cpu_wait": 25.52,
+    "cpu_idle": 52.48
+  },
+  {
+    "hour": "2026-07-05 22",
+    "cpu_usage": 44.76,
+    "cpu_user": 23.76,
+    "cpu_sys": 27.84,
+    "cpu_wait": 22.26,
+    "cpu_idle": 63.71
+  },
+  {
+    "hour": "2026-07-05 23",
+    "cpu_usage": 39.74,
+    "cpu_user": 22.71,
+    "cpu_sys": 18.39,
+    "cpu_wait": 24.36,
+    "cpu_idle": 54.68
+  },
+  {
+    "hour": "2026-07-06 00",
+    "cpu_usage": 47.43,
+    "cpu_user": 27.95,
+    "cpu_sys": 26.02,
+    "cpu_wait": 28.52,
+    "cpu_idle": 60.07
+  },
+  {
+    "hour": "2026-07-06 01",
+    "cpu_usage": 33.91,
+    "cpu_user": 26.65,
+    "cpu_sys": 33.68,
+    "cpu_wait": 25.71,
+    "cpu_idle": 56.85
+  },
+  {
+    "hour": "2026-07-06 02",
+    "cpu_usage": 48.47,
+    "cpu_user": 24.3,
+    "cpu_sys": 24.72,
+    "cpu_wait": 28.8,
+    "cpu_idle": 62.97
+  },
+  {
+    "hour": "2026-07-06 03",
+    "cpu_usage": 31.93,
+    "cpu_user": 29.28,
+    "cpu_sys": 26.69,
+    "cpu_wait": 26.94,
+    "cpu_idle": 58.72
+  },
+  {
+    "hour": "2026-07-06 04",
+    "cpu_usage": 43.48,
+    "cpu_user": 23.4,
+    "cpu_sys": 24.0,
+    "cpu_wait": 25.81,
+    "cpu_idle": 51.1
+  },
+  {
+    "hour": "2026-07-06 05",
+    "cpu_usage": 40.35,
+    "cpu_user": 24.47,
+    "cpu_sys": 23.4,
+    "cpu_wait": 25.1,
+    "cpu_idle": 57.43
+  },
+  {
+    "hour": "2026-07-06 06",
+    "cpu_usage": 39.02,
+    "cpu_user": 27.2,
+    "cpu_sys": 28.21,
+    "cpu_wait": 29.58,
+    "cpu_idle": 49.0
+  },
+  {
+    "hour": "2026-07-06 07",
+    "cpu_usage": 46.72,
+    "cpu_user": 26.61,
+    "cpu_sys": 28.22,
+    "cpu_wait": 27.92,
+    "cpu_idle": 51.79
+  },
+  {
+    "hour": "2026-07-06 08",
+    "cpu_usage": 52.9,
+    "cpu_user": 28.89,
+    "cpu_sys": 30.52,
+    "cpu_wait": 19.66,
+    "cpu_idle": 56.79
+  },
+  {
+    "hour": "2026-07-06 09",
+    "cpu_usage": 37.81,
+    "cpu_user": 23.41,
+    "cpu_sys": 29.44,
+    "cpu_wait": 16.83,
+    "cpu_idle": 63.01
+  },
+  {
+    "hour": "2026-07-06 10",
+    "cpu_usage": 45.14,
+    "cpu_user": 28.56,
+    "cpu_sys": 27.83,
+    "cpu_wait": 26.67,
+    "cpu_idle": 57.77
+  },
+  {
+    "hour": "2026-07-06 11",
+    "cpu_usage": 44.15,
+    "cpu_user": 21.84,
+    "cpu_sys": 29.38,
+    "cpu_wait": 28.61,
+    "cpu_idle": 54.39
+  },
+  {
+    "hour": "2026-07-06 12",
+    "cpu_usage": 42.66,
+    "cpu_user": 28.62,
+    "cpu_sys": 24.98,
+    "cpu_wait": 30.11,
+    "cpu_idle": 51.89
+  },
+  {
+    "hour": "2026-07-06 13",
+    "cpu_usage": 42.01,
+    "cpu_user": 24.37,
+    "cpu_sys": 24.92,
+    "cpu_wait": 21.77,
+    "cpu_idle": 57.59
+  },
+  {
+    "hour": "2026-07-06 14",
+    "cpu_usage": 35.23,
+    "cpu_user": 22.05,
+    "cpu_sys": 24.38,
+    "cpu_wait": 25.66,
+    "cpu_idle": 53.39
+  },
+  {
+    "hour": "2026-07-06 15",
+    "cpu_usage": 43.93,
+    "cpu_user": 19.52,
+    "cpu_sys": 23.26,
+    "cpu_wait": 20.39,
+    "cpu_idle": 58.4
+  },
+  {
+    "hour": "2026-07-06 16",
+    "cpu_usage": 55.21,
+    "cpu_user": 29.2,
+    "cpu_sys": 30.43,
+    "cpu_wait": 22.82,
+    "cpu_idle": 56.47
+  },
+  {
+    "hour": "2026-07-06 17",
+    "cpu_usage": 51.67,
+    "cpu_user": 19.88,
+    "cpu_sys": 20.2,
+    "cpu_wait": 20.44,
+    "cpu_idle": 55.45
+  },
+  {
+    "hour": "2026-07-06 18",
+    "cpu_usage": 48.95,
+    "cpu_user": 23.54,
+    "cpu_sys": 22.31,
+    "cpu_wait": 22.47,
+    "cpu_idle": 62.25
+  },
+  {
+    "hour": "2026-07-06 19",
+    "cpu_usage": 39.94,
+    "cpu_user": 19.05,
+    "cpu_sys": 23.89,
+    "cpu_wait": 23.77,
+    "cpu_idle": 59.14
+  },
+  {
+    "hour": "2026-07-06 20",
+    "cpu_usage": 38.19,
+    "cpu_user": 24.23,
+    "cpu_sys": 25.99,
+    "cpu_wait": 16.28,
+    "cpu_idle": 56.78
+  },
+  {
+    "hour": "2026-07-06 21",
+    "cpu_usage": 44.06,
+    "cpu_user": 20.53,
+    "cpu_sys": 28.96,
+    "cpu_wait": 29.48,
+    "cpu_idle": 65.15
+  },
+  {
+    "hour": "2026-07-06 22",
+    "cpu_usage": 52.21,
+    "cpu_user": 22.54,
+    "cpu_sys": 21.78,
+    "cpu_wait": 28.05,
+    "cpu_idle": 56.07
+  },
+  {
+    "hour": "2026-07-06 23",
+    "cpu_usage": 43.67,
+    "cpu_user": 20.64,
+    "cpu_sys": 24.3,
+    "cpu_wait": 17.94,
+    "cpu_idle": 56.48
+  },
+  {
+    "hour": "2026-07-07 00",
+    "cpu_usage": 37.02,
+    "cpu_user": 20.17,
+    "cpu_sys": 26.68,
+    "cpu_wait": 22.14,
+    "cpu_idle": 54.1
+  },
+  {
+    "hour": "2026-07-07 01",
+    "cpu_usage": 44.12,
+    "cpu_user": 26.32,
+    "cpu_sys": 23.01,
+    "cpu_wait": 26.59,
+    "cpu_idle": 66.2
+  },
+  {
+    "hour": "2026-07-07 02",
+    "cpu_usage": 40.79,
+    "cpu_user": 28.18,
+    "cpu_sys": 27.8,
+    "cpu_wait": 25.45,
+    "cpu_idle": 59.76
+  },
+  {
+    "hour": "2026-07-07 03",
+    "cpu_usage": 41.43,
+    "cpu_user": 19.44,
+    "cpu_sys": 23.29,
+    "cpu_wait": 24.69,
+    "cpu_idle": 64.61
+  },
+  {
+    "hour": "2026-07-07 04",
+    "cpu_usage": 39.78,
+    "cpu_user": 25.77,
+    "cpu_sys": 28.21,
+    "cpu_wait": 24.22,
+    "cpu_idle": 53.54
+  },
+  {
+    "hour": "2026-07-07 05",
+    "cpu_usage": 43.42,
+    "cpu_user": 21.32,
+    "cpu_sys": 25.18,
+    "cpu_wait": 27.55,
+    "cpu_idle": 63.45
+  },
+  {
+    "hour": "2026-07-07 06",
+    "cpu_usage": 44.48,
+    "cpu_user": 26.17,
+    "cpu_sys": 25.66,
+    "cpu_wait": 25.44,
+    "cpu_idle": 57.6
+  },
+  {
+    "hour": "2026-07-07 07",
+    "cpu_usage": 40.74,
+    "cpu_user": 24.97,
+    "cpu_sys": 23.54,
+    "cpu_wait": 23.88,
+    "cpu_idle": 61.25
+  },
+  {
+    "hour": "2026-07-07 08",
+    "cpu_usage": 45.3,
+    "cpu_user": 29.1,
+    "cpu_sys": 23.64,
+    "cpu_wait": 27.52,
+    "cpu_idle": 55.39
+  },
+  {
+    "hour": "2026-07-07 09",
+    "cpu_usage": 41.57,
+    "cpu_user": 23.92,
+    "cpu_sys": 24.65,
+    "cpu_wait": 24.82,
+    "cpu_idle": 64.87
+  },
+  {
+    "hour": "2026-07-07 10",
+    "cpu_usage": 36.74,
+    "cpu_user": 27.98,
+    "cpu_sys": 24.8,
+    "cpu_wait": 18.36,
+    "cpu_idle": 55.6
+  },
+  {
+    "hour": "2026-07-07 11",
+    "cpu_usage": 45.8,
+    "cpu_user": 27.61,
+    "cpu_sys": 24.88,
+    "cpu_wait": 22.8,
+    "cpu_idle": 51.97
+  },
+  {
+    "hour": "2026-07-07 12",
+    "cpu_usage": 39.76,
+    "cpu_user": 25.97,
+    "cpu_sys": 23.87,
+    "cpu_wait": 23.29,
+    "cpu_idle": 62.51
+  },
+  {
+    "hour": "2026-07-07 13",
+    "cpu_usage": 46.8,
+    "cpu_user": 20.52,
+    "cpu_sys": 23.22,
+    "cpu_wait": 25.8,
+    "cpu_idle": 66.17
+  },
+  {
+    "hour": "2026-07-07 14",
+    "cpu_usage": 40.77,
+    "cpu_user": 22.73,
+    "cpu_sys": 25.4,
+    "cpu_wait": 17.59,
+    "cpu_idle": 53.43
+  },
+  {
+    "hour": "2026-07-07 15",
+    "cpu_usage": 43.56,
+    "cpu_user": 19.8,
+    "cpu_sys": 28.07,
+    "cpu_wait": 30.61,
+    "cpu_idle": 52.2
+  },
+  {
+    "hour": "2026-07-07 16",
+    "cpu_usage": 55.03,
+    "cpu_user": 19.93,
+    "cpu_sys": 23.21,
+    "cpu_wait": 25.16,
+    "cpu_idle": 52.59
+  },
+  {
+    "hour": "2026-07-07 17",
+    "cpu_usage": 37.07,
+    "cpu_user": 25.73,
+    "cpu_sys": 19.72,
+    "cpu_wait": 25.44,
+    "cpu_idle": 51.9
+  },
+  {
+    "hour": "2026-07-07 18",
+    "cpu_usage": 44.53,
+    "cpu_user": 25.94,
+    "cpu_sys": 31.0,
+    "cpu_wait": 27.84,
+    "cpu_idle": 59.08
+  },
+  {
+    "hour": "2026-07-07 19",
+    "cpu_usage": 45.73,
+    "cpu_user": 21.57,
+    "cpu_sys": 26.63,
+    "cpu_wait": 22.15,
+    "cpu_idle": 54.38
+  },
+  {
+    "hour": "2026-07-07 20",
+    "cpu_usage": 47.95,
+    "cpu_user": 27.04,
+    "cpu_sys": 24.96,
+    "cpu_wait": 29.19,
+    "cpu_idle": 57.68
+  },
+  {
+    "hour": "2026-07-07 21",
+    "cpu_usage": 47.6,
+    "cpu_user": 27.44,
+    "cpu_sys": 21.1,
+    "cpu_wait": 20.99,
+    "cpu_idle": 55.55
+  },
+  {
+    "hour": "2026-07-07 22",
+    "cpu_usage": 46.79,
+    "cpu_user": 26.05,
+    "cpu_sys": 22.39,
+    "cpu_wait": 28.01,
+    "cpu_idle": 61.34
+  },
+  {
+    "hour": "2026-07-07 23",
+    "cpu_usage": 39.57,
+    "cpu_user": 25.9,
+    "cpu_sys": 21.3,
+    "cpu_wait": 26.36,
+    "cpu_idle": 57.4
+  }
+]

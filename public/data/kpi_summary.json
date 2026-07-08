@@ -1,0 +1,38 @@
+{
+  "total_hosts": 20,
+  "total_disk_records": 12000,
+  "total_pref_records": 67200,
+  "time_range_start": "2026-07-01 00:00",
+  "time_range_end": "2026-08-11 15:55",
+  "disk_util": {
+    "value": 49.7,
+    "min": 0.0,
+    "max": 99.8
+  },
+  "disk_latency": {
+    "value": 25.31,
+    "min": 0.22,
+    "max": 50.0
+  },
+  "cpu": {
+    "value": 43.2,
+    "min": 5.0,
+    "max": 80.0
+  },
+  "model_distribution": {
+    "Dell R750": 4,
+    "HP DL388": 4,
+    "Huawei 2288H": 5,
+    "Dell R740": 2,
+    "Lenovo SR650": 2,
+    "Lenovo SR860": 3
+  },
+  "location_distribution": {
+    "A机房": 7,
+    "B机房": 4,
+    "E机房": 4,
+    "C机房": 3,
+    "D机房": 2
+  },
+  "alert_count": 535
+}

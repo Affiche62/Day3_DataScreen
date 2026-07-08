@@ -1,0 +1,22 @@
+[
+  {
+    "location": "A机房",
+    "count": 7
+  },
+  {
+    "location": "B机房",
+    "count": 4
+  },
+  {
+    "location": "C机房",
+    "count": 3
+  },
+  {
+    "location": "D机房",
+    "count": 2
+  },
+  {
+    "location": "E机房",
+    "count": 4
+  }
+]

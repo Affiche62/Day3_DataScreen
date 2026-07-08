@@ -1,0 +1,26 @@
+[
+  {
+    "model": "Dell R740",
+    "count": 2
+  },
+  {
+    "model": "Dell R750",
+    "count": 4
+  },
+  {
+    "model": "HP DL388",
+    "count": 4
+  },
+  {
+    "model": "Huawei 2288H",
+    "count": 5
+  },
+  {
+    "model": "Lenovo SR650",
+    "count": 2
+  },
+  {
+    "model": "Lenovo SR860",
+    "count": 3
+  }
+]

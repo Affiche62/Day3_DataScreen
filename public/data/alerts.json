@@ -1,0 +1,352 @@
+[
+  {
+    "ts": "2026-07-01 02:20",
+    "hostid": "host004",
+    "mod": "sdd_await",
+    "value": 43.95,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 02:50",
+    "hostid": "host017",
+    "mod": "sdc_util",
+    "value": 96.44,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-01 03:00",
+    "hostid": "host010",
+    "mod": "sda_util",
+    "value": 99.51,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-01 04:15",
+    "hostid": "host013",
+    "mod": "sdb_await",
+    "value": 40.05,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 08:40",
+    "hostid": "host018",
+    "mod": "sdb_util",
+    "value": 97.38,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-01 09:05",
+    "hostid": "host004",
+    "mod": "sde_await",
+    "value": 43.62,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 09:40",
+    "hostid": "host018",
+    "mod": "sdb_await",
+    "value": 46.97,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 12:25",
+    "hostid": "host018",
+    "mod": "sda_await",
+    "value": 47.51,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 13:30",
+    "hostid": "host014",
+    "mod": "sde_await",
+    "value": 45.25,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-01 15:55",
+    "hostid": "host013",
+    "mod": "sda_util",
+    "value": 94.15,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-01 18:10",
+    "hostid": "host012",
+    "mod": "sdc_util",
+    "value": 99.66,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-01 23:35",
+    "hostid": "host004",
+    "mod": "sde_util",
+    "value": 94.71,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 00:15",
+    "hostid": "host014",
+    "mod": "sdb_await",
+    "value": 46.72,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 02:05",
+    "hostid": "host003",
+    "mod": "sdc_util",
+    "value": 97.83,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 03:00",
+    "hostid": "host001",
+    "mod": "sde_util",
+    "value": 90.12,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 03:10",
+    "hostid": "host015",
+    "mod": "sdc_await",
+    "value": 49.38,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 05:00",
+    "hostid": "host008",
+    "mod": "sda_util",
+    "value": 96.73,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 05:20",
+    "hostid": "host009",
+    "mod": "sde_await",
+    "value": 41.14,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 05:35",
+    "hostid": "host018",
+    "mod": "sda_await",
+    "value": 45.77,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 06:25",
+    "hostid": "host016",
+    "mod": "sdb_util",
+    "value": 93.91,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 09:35",
+    "hostid": "host009",
+    "mod": "sdd_await",
+    "value": 47.68,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 09:50",
+    "hostid": "host004",
+    "mod": "sdd_await",
+    "value": 40.61,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 10:05",
+    "hostid": "host014",
+    "mod": "sdc_await",
+    "value": 43.69,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 10:30",
+    "hostid": "host004",
+    "mod": "sdc_await",
+    "value": 42.28,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 14:25",
+    "hostid": "host019",
+    "mod": "sda_await",
+    "value": 43.23,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 16:50",
+    "hostid": "host007",
+    "mod": "sdb_await",
+    "value": 47.39,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 21:00",
+    "hostid": "host006",
+    "mod": "sde_util",
+    "value": 98.08,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 21:25",
+    "hostid": "host002",
+    "mod": "sda_await",
+    "value": 46.68,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-02 21:30",
+    "hostid": "host017",
+    "mod": "sda_util",
+    "value": 98.91,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-02 23:45",
+    "hostid": "host017",
+    "mod": "sde_await",
+    "value": 45.69,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 02:15",
+    "hostid": "host020",
+    "mod": "sdb_await",
+    "value": 42.14,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 03:15",
+    "hostid": "host011",
+    "mod": "sdc_await",
+    "value": 48.77,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 03:40",
+    "hostid": "host010",
+    "mod": "sde_await",
+    "value": 43.22,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 03:50",
+    "hostid": "host006",
+    "mod": "sda_await",
+    "value": 46.69,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 07:00",
+    "hostid": "host007",
+    "mod": "sda_await",
+    "value": 49.91,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 07:10",
+    "hostid": "host006",
+    "mod": "sde_util",
+    "value": 91.21,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-03 07:50",
+    "hostid": "host013",
+    "mod": "sdc_await",
+    "value": 47.73,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 08:00",
+    "hostid": "host003",
+    "mod": "sdc_await",
+    "value": 46.21,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 10:25",
+    "hostid": "host016",
+    "mod": "sda_await",
+    "value": 46.8,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 15:30",
+    "hostid": "host005",
+    "mod": "sde_util",
+    "value": 91.47,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-03 15:35",
+    "hostid": "host018",
+    "mod": "sdb_util",
+    "value": 96.78,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-03 16:35",
+    "hostid": "host007",
+    "mod": "sda_util",
+    "value": 91.51,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-03 17:00",
+    "hostid": "host016",
+    "mod": "sda_await",
+    "value": 45.73,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 19:10",
+    "hostid": "host003",
+    "mod": "sdd_await",
+    "value": 47.97,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 20:50",
+    "hostid": "host020",
+    "mod": "sda_util",
+    "value": 96.89,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-03 22:10",
+    "hostid": "host020",
+    "mod": "sda_await",
+    "value": 43.2,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-03 23:05",
+    "hostid": "host011",
+    "mod": "sde_await",
+    "value": 40.22,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-04 00:25",
+    "hostid": "host003",
+    "mod": "sdd_util",
+    "value": 99.07,
+    "type": "高利用率告警"
+  },
+  {
+    "ts": "2026-07-04 01:00",
+    "hostid": "host013",
+    "mod": "sdb_await",
+    "value": 48.29,
+    "type": "高延迟告警"
+  },
+  {
+    "ts": "2026-07-04 04:30",
+    "hostid": "host007",
+    "mod": "sde_await",
+    "value": 48.2,
+    "type": "高延迟告警"
+  }
+]
